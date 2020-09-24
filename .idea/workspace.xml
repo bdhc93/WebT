@@ -19,11 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="753a482f-5db8-426d-bf3e-0c805f873d6e" name="Default Changelist" comment="2">
-      <change afterPath="$PROJECT_DIR$/views/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/mision_vision.html" afterDir="false" />
+    <list default="true" id="753a482f-5db8-426d-bf3e-0c805f873d6e" name="Default Changelist" comment="ok">
+      <change afterPath="$PROJECT_DIR$/views/contactanos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/galeria_fotos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/galeria_videos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/noticias_deportes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/noticias_espectaculos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/noticias_politica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/programacion_am.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/programacion_fm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/programacion_pirata.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/programacion_tv.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/ranking_fm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/ranking_tv.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/responsabilidad_social.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/mision_vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/mision_vision.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +85,7 @@
       <workItem from="1600895559123" duration="1173000" />
       <workItem from="1600897631516" duration="7357000" />
       <workItem from="1600905789777" duration="1995000" />
+      <workItem from="1600963920644" duration="3946000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1600961695611</created>
@@ -81,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600961695611</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ok">
+      <created>1600963895498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600963895498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,17 +121,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
   <component name="WindowStateProjectService">
     <state x="129" y="54" key="MergeDialog" timestamp="1600961541186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="54" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1600961541186" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600961697439">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1600965686168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600961697439" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1600965686168" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600963897149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600963897149" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600961467308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
