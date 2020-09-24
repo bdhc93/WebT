@@ -737,15 +737,20 @@
     //Custom Style
     var styles = [];
     var mapOptions = {
-      zoom: 18,
-      scrollwheel: false,
+      zoom: 16,
       center: new google.maps.LatLng(-7.1505997, -78.5191562),
       styles: styles
 
     };
+
     var map = new google.maps.Map(document.getElementById('map'), mapOptions);
     var image = '';
-    var marker = new google.maps.Marker({});
+    var marker = new google.maps.Marker({
+      position: {lat: -7.150638984042923, lng: -78.5185158478851},
+      map: map,
+	  title: 'GRUPO TURBO MIX',
+      icon: 'http://turbotest.somee.com/images/logoubicacion.ico',
+    });
   }
   var mapId = $('#map');
   if (mapId.length) {

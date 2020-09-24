@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="753a482f-5db8-426d-bf3e-0c805f873d6e" name="Default Changelist" comment="ok2">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_09_2020_10_31__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_09_2020_10_31__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logoubicacion.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/star.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/star.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/contactanos.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/contactanos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="de20990c-cab8-4706-a797-8b48955e6dfb" />
+  <component name="JupyterTrust" id="baf541d0-a669-4c32-a677-4d0a3442c872" />
   <component name="ProjectId" id="1hvdZSQvVVUscNwRRUDbF2ZC0Bw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,10 +52,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\WebT\images" />
       <recent name="D:\WEB_TURBO\WebT\views" />
       <recent name="D:\WEB_TURBO\WebT\assets\img" />
       <recent name="E:\GitHub\WebDesign" />
