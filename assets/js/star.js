@@ -732,14 +732,14 @@
 
   /*======== 12. MAP ========*/
   function initialize() {
-    var myLatLng = { lat: 40.697488, lng: -73.979681 };
+    var myLatLng = { lat: -7.1505997, lng: -78.5191562 };
 
     //Custom Style
     var styles = [];
     var mapOptions = {
-      zoom: 14,
+      zoom: 18,
       scrollwheel: false,
-      center: new google.maps.LatLng(40.697488, -73.979681),
+      center: new google.maps.LatLng(-7.1505997, -78.5191562),
       styles: styles
 
     };
