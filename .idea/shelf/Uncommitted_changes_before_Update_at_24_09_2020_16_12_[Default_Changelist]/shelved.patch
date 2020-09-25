@@ -1,0 +1,90 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"753a482f-5db8-426d-bf3e-0c805f873d6e\" name=\"Default Changelist\" comment=\"ok\">\r\n      <change afterPath=\"$PROJECT_DIR$/views/contactanos.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/galeria_fotos.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/galeria_videos.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/noticias_deportes.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/noticias_espectaculos.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/noticias_politica.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/programacion_am.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/programacion_fm.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/programacion_pirata.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/programacion_tv.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/ranking_fm.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/ranking_tv.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/views/responsabilidad_social.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/views/mision_vision.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/views/mision_vision.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"JupyterTrust\" id=\"de20990c-cab8-4706-a797-8b48955e6dfb\" />\r\n  <component name=\"ProjectId\" id=\"1hvdZSQvVVUscNwRRUDbF2ZC0Bw\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/views\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\WEB_TURBO\\WebT\\views\" />\r\n      <recent name=\"D:\\WEB_TURBO\\WebT\\assets\\img\" />\r\n      <recent name=\"E:\\GitHub\\WebDesign\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"753a482f-5db8-426d-bf3e-0c805f873d6e\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1600895555621</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1600895555621</updated>\r\n      <workItem from=\"1600895559123\" duration=\"1173000\" />\r\n      <workItem from=\"1600897631516\" duration=\"7357000\" />\r\n      <workItem from=\"1600905789777\" duration=\"1995000\" />\r\n      <workItem from=\"1600963920644\" duration=\"3946000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"2\">\r\n      <created>1600961695611</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600961695611</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"ok\">\r\n      <created>1600963895498</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600963895498</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"2\" />\r\n    <MESSAGE value=\"ok\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"ok\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"129\" y=\"54\" key=\"MergeDialog\" timestamp=\"1600961541186\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"129\" y=\"54\" key=\"MergeDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1600961541186\" />\r\n    <state width=\"498\" height=\"446\" key=\"SwitcherDM\" timestamp=\"1600965686168\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state width=\"498\" height=\"446\" key=\"SwitcherDM/0.0.1366.728@0.0.1366.728\" timestamp=\"1600965686168\" />\r\n    <state x=\"275\" y=\"96\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1600963897149\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"275\" y=\"96\" key=\"Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728\" timestamp=\"1600963897149\" />\r\n    <state x=\"500\" y=\"277\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1600961467308\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"500\" y=\"277\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728\" timestamp=\"1600961467308\" />\r\n    <state x=\"346\" y=\"49\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1600962601989\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"346\" y=\"49\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1366.728@0.0.1366.728\" timestamp=\"1600962601989\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 370bbe602045486cd7a599af4510537650cee49a)
++++ .idea/workspace.xml	(date 1600981955002)
+@@ -19,23 +19,8 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="753a482f-5db8-426d-bf3e-0c805f873d6e" name="Default Changelist" comment="ok">
+-      <change afterPath="$PROJECT_DIR$/views/contactanos.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/galeria_fotos.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/galeria_videos.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/noticias_deportes.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/noticias_espectaculos.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/noticias_politica.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/programacion_am.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/programacion_fm.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/programacion_pirata.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/programacion_tv.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/ranking_fm.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/ranking_tv.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/views/responsabilidad_social.html" afterDir="false" />
++    <list default="true" id="753a482f-5db8-426d-bf3e-0c805f873d6e" name="Default Changelist" comment="ok2">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/views/mision_vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/mision_vision.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -85,7 +70,8 @@
+       <workItem from="1600895559123" duration="1173000" />
+       <workItem from="1600897631516" duration="7357000" />
+       <workItem from="1600905789777" duration="1995000" />
+-      <workItem from="1600963920644" duration="3946000" />
++      <workItem from="1600963920644" duration="4309000" />
++      <workItem from="1600981643863" duration="310000" />
+     </task>
+     <task id="LOCAL-00001" summary="2">
+       <created>1600961695611</created>
+@@ -101,7 +87,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1600963895498</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="ok">
++      <created>1600968092776</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1600968092776</updated>
++    </task>
++    <task id="LOCAL-00004" summary="ok2">
++      <created>1600968119048</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1600968119048</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -122,7 +122,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="2" />
+     <MESSAGE value="ok" />
+-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
++    <MESSAGE value="ok2" />
++    <option name="LAST_COMMIT_MESSAGE" value="ok2" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="129" y="54" key="MergeDialog" timestamp="1600961541186">
+@@ -133,10 +134,10 @@
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1600965686168" />
+-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600963897149">
++    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600968121653">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600963897149" />
++    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600968121653" />
+     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600961467308">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
