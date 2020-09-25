@@ -19,28 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="753a482f-5db8-426d-bf3e-0c805f873d6e" name="Default Changelist" comment="ok3">
-      <change afterPath="$PROJECT_DIR$/views/noticias_espec_cuadro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/noticias_poli_cuadro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/programacion_am_cuadro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/programacion_fm_cuadro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/programacion_pirata_cuadro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/programacion_tv_cuadro.html" afterDir="false" />
+    <list default="true" id="753a482f-5db8-426d-bf3e-0c805f873d6e" name="Default Changelist" comment="ok4">
+      <change afterPath="$PROJECT_DIR$/images/cajamarca_general.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/galeria_fotos.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/galeria_fotos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/galeria_videos.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/galeria_videos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/mision_vision.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/mision_vision.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/noticias_depor_cuadro.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/noticias_depor_cuadro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/noticias_deportes.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/noticias_deportes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/noticias_espectaculos.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/noticias_espectaculos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/noticias_politica.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/noticias_politica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/programacion_am.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/programacion_am.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/programacion_fm.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/programacion_fm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/programacion_pirata.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/programacion_pirata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/programacion_tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/programacion_tv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/ranking_fm.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/ranking_fm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/ranking_tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/ranking_tv.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +55,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEB_TURBO\WebT\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WEB_TURBO\WebT\views" />
       <recent name="D:\WEB_TURBO\WebT\assets\img" />
@@ -91,7 +76,7 @@
       <workItem from="1600897631516" duration="7357000" />
       <workItem from="1600905789777" duration="1995000" />
       <workItem from="1600963920644" duration="3946000" />
-      <workItem from="1601044892454" duration="6428000" />
+      <workItem from="1601044892454" duration="7626000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1600961695611</created>
@@ -114,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600995064106</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ok4">
+      <created>1601052999018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601052999018</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +128,8 @@
     <MESSAGE value="2" />
     <MESSAGE value="ok2" />
     <MESSAGE value="ok3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok3" />
+    <MESSAGE value="ok4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="129" y="54" key="MergeDialog" timestamp="1600990256387">
@@ -147,10 +140,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1601049593410" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600995065621">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601053000429">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600995065621" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601053000429" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601044929356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
